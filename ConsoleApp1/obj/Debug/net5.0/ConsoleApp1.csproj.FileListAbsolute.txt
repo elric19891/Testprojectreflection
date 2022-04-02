@@ -1,0 +1,16 @@
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.deps.json
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.json
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.dev.json
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.dll
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ref/ConsoleApp1.dll
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.pdb
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfo.cs
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.dll
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ref/ConsoleApp1.dll
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.pdb
+/home/elric/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.genruntimeconfig.cache
